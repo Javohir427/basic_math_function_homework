@@ -4,7 +4,11 @@
 #import re
 
 
+
+
+
 def main(a):
-    return 0
-print((main))
+    
+    return abs(a)
+print((main(-7)))
 
