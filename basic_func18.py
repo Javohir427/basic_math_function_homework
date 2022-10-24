@@ -6,6 +6,6 @@ from math import pi
 def main(a):
     a = pi
     
-    return(pi)
+    return(round(pi,2))
 
-print(round(main(pi),2))    
+print(main(pi))    
